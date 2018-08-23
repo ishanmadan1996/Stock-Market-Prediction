@@ -21,7 +21,7 @@ training_data = '.../nifty 100 training data.csv'
 testing_data = '.../nifty 100 testing data.csv'
 ```
 
-##Output
+## Output
 
 This algorithm achieved a maximum test accuracy of 77.8%.
 The 'Analysis output.png' file shows the line graph for predicted and actual opening value of the Nifty-100 index.
